@@ -1,0 +1,28 @@
+dependencies: \
+  /Users/kylefraser/Documents/ReactNatApp/node_modules/react-native/React/Views/RCTComponentData.m \
+  /Users/kylefraser/Documents/ReactNatApp/node_modules/react-native/React/Views/RCTComponentData.h \
+  /Users/kylefraser/Documents/ReactNatApp/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/kylefraser/Documents/ReactNatApp/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/kylefraser/Documents/ReactNatApp/node_modules/react-native/React/Views/RCTViewManager.h \
+  /Users/kylefraser/Documents/ReactNatApp/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/kylefraser/Documents/ReactNatApp/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/kylefraser/Documents/ReactNatApp/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/kylefraser/Documents/ReactNatApp/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/kylefraser/Documents/ReactNatApp/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/kylefraser/Documents/ReactNatApp/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/kylefraser/Documents/ReactNatApp/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/kylefraser/Documents/ReactNatApp/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/kylefraser/Documents/ReactNatApp/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/kylefraser/Documents/ReactNatApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/kylefraser/Documents/ReactNatApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/kylefraser/Documents/ReactNatApp/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/kylefraser/Documents/ReactNatApp/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/kylefraser/Documents/ReactNatApp/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/kylefraser/Documents/ReactNatApp/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/kylefraser/Documents/ReactNatApp/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/kylefraser/Documents/ReactNatApp/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/kylefraser/Documents/ReactNatApp/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/kylefraser/Documents/ReactNatApp/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/kylefraser/Documents/ReactNatApp/node_modules/react-native/React/Base/RCTParserUtils.h \
+  /Users/kylefraser/Documents/ReactNatApp/node_modules/react-native/React/Views/RCTShadowView.h \
+  /Users/kylefraser/Documents/ReactNatApp/node_modules/react-native/React/Base/RCTRootView.h

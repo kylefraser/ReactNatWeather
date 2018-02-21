@@ -1,0 +1,7 @@
+{
+  "name": "ReactNatApp",
+  "displayName": "ReactNatApp",
+  "expo": {
+    "sdkVersion": "25.0.0"
+  }
+}
